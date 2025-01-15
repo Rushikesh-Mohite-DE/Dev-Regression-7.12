@@ -1,6 +1,6 @@
 excludeSelector: ""
 fileVersion: 1
 id: "24"
-includeSelector: "{ location: TARGET name: STG_LOGISTICSPOSTALADDRESS }"
+includeSelector: "{ location: TARGET name: STG_LOGISTICSPOSTALADDRESS } OR { location: TARGET name: STG_LOGISTICSPOSTALADDRESS7 } OR { location: TARGET name: STG_LOGISTICSPOSTALADDRESS1 } OR { location: TARGET name: STG_LOGISTICSPOSTALADDRESS2 } OR { location: TARGET name: STG_LOGISTICSPOSTALADDRESS3 } OR { location: TARGET name: STG_LOGISTICSPOSTALADDRESS4 } OR { location: TARGET name: STG_LOGISTICSPOSTALADDRESS5 } OR { location: TARGET name: STG_LOGISTICSPOSTALADDRESS6 } OR { location: TARGET name: STG_LOGISTICSPOSTALADDRESS8 }"
 name: New Job
 type: Job
