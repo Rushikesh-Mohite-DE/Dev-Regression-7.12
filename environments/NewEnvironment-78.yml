@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "78"
+mappingDefinitions:
+  SOURCE:
+    database: DATAENTREGA_QA
+    schema: SOURCE
+  TARGET:
+    database: DATAENTREGA_QA
+    schema: DEPLOY_TESTING
+name: New Environment
+type: Environment
