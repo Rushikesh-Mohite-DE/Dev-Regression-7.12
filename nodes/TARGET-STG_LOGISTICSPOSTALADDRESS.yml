@@ -64,7 +64,7 @@ operation:
           columnCounter: 4b0a50fd-de69-40ce-8c7a-b3574bd9b606
           stepCounter: 6685d707-cfb7-4b08-b20c-f386f7595a22
         config: {}
-        dataType: VARCHARI(10)
+        dataType: VARCHAR(10)
         description: ""
         name: ZIPCODE
         nullable: true
